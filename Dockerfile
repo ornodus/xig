@@ -1,0 +1,1 @@
+FROM giansalex/monero-miner
